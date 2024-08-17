@@ -1,0 +1,12 @@
+let num1 = 4;
+let num2 =5;
+
+let somar = `A soma de ${num1} e ${num2} é ${num1 + num2}`
+let subtrai = `A subtração de ${num1} e ${num2} é ${num1 - num2}`
+let multiplica = `A multiplicação de ${num1} e ${num2} é ${num1 * num2}`
+let divide = `A divisão de ${num1} e ${num2} é ${num1 / num2}`
+
+console.log(somar);
+console.log(subtrai);
+console.log(multiplica);
+console.log(divide);
